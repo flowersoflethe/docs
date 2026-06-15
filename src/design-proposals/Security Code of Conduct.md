@@ -30,8 +30,8 @@ that is pursuant to section 12.1c of the Station Security Act
         or while performing their assigned duties.
 -   4h. Use any tobacco or nicotine product while in contact with the public. 
 -	4j. Engage in conduct that is likely to discredit the Security force; or that 
-	    calls into question the member’s ability to carry out their duties
-	    in a faithful and impartial manner. 
+	    calls into question the member’s ability to 
+	    carry out their dutiesin a faithful and impartial manner. 
 
 ## Duty to Cooperate
 5. (1) No Security personnel are excused from responding to any inquiries that surface
