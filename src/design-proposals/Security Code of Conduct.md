@@ -16,22 +16,19 @@ that is pursuant to section 12.1c of the Station Security Act
    
 ## Prohibitions
 4. No members of Security shall
--   4a. Knowingly, without probable cause, supervise or carry out an arrest, 
-       a detention, or a search that is unlawful.
--	4b. Knowingly, without probable cause, fail to report an arrest, detention,
- a search or surveillance that is or can reasonably be considered unlawful.
--	4c. Knowingly suppress, misrepresent, or falsify information in a report or statement.
--	4d. Use a weapon in a dangerous or negligent manner.
--   4e. Be critical or speak negatively of Nanotrasen appointed Command personnel
+-   4a. Knowingly carry out or fail to report the existence of an unlawful arrest, detainment, or search.
+-   4b. Knowingly suppress, misrepresent, or falsify information in a legal report or statement.
+-	4c. Use a weapon in a dangerous or negligent manner.
+-   4d. Be critical or speak negatively of Nanotrasen appointed Command personnel
         or other Security personnel while on duty.
--	4f. Disclose Confidential information: such as information that is under NDA,
+-	4e. Disclose Confidential information: such as information that is under NDA,
 	    or information pertaining to an ongoing investigation.
--   4g. Drink until the point of intoxication while dressed in uniform, 
+-   4f. Drink until the point of intoxication while dressed in uniform, 
         or while performing their assigned duties.
--   4h. Use any tobacco or nicotine related product while in contact with the public. 
--	4j. Engage in conduct that is likely to discredit the Security force; or that 
-	    calls into question the member’s ability to carry out
-	    their duties in a faithful and impartial manner. 
+-   4g. Use any tobacco or nicotine related product while in contact with the public. 
+-	4j. Engage in any other conduct that discredits the Security force, or that 
+	    calls into question the officer’s ability to carry out
+	    their duties in a reliable and competent manner. 
 
 ## Duty to Cooperate
 5. (1) No Security personnel are excused from responding to any inquiries that surface
