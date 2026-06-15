@@ -27,7 +27,7 @@ that is pursuant to section 12.1c of the Station Security Act
 -	4f. Disclose Confidential information: such as information that is under NDA,
 	    or information pertaining to an ongoing investigation.
 -   4g. Drink until the point of intoxication while on duty.
--   4h. use any tobacco or nicotine product while in contact with the public. 
+-   4h. Use any tobacco or nicotine product while in contact with the public. 
 -	4j. Engage in conduct that is likely to discredit the Security force; or that 
 	    calls into question the member’s ability to carry out their duties
 	    in a faithful and impartial manner. 
