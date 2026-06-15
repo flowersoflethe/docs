@@ -18,7 +18,7 @@ that is pursuant to section 12.1c of the Station Security Act
 4. No members of Security shall:
 -   4a. Knowingly carry out or fail to report the existence of an unlawful arrest, detainment, or search.
 -   4b. Knowingly suppress, misrepresent, or falsify information in a legal report or statement.
--	4c. Discharge a weapon in a dangerous or negligent manner.
+-	4c. Discharge a weapon in a disproportionately dangerous or negligent manner.
 -   4d. Be critical or speak negatively of Nanotrasen appointed Command personnel
         or other Security personnel while on duty.
 -	4e. Disclose Confidential information: such as information that is under NDA,
