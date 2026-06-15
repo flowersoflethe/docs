@@ -15,7 +15,7 @@ that is pursuant to section 12.1c of the Station Security Act
    have been hired under the Captain's purview.
    
 ## Prohibitions
-4. No members of Security shall
+4. No members of Security shall:
 -   4a. Knowingly carry out or fail to report the existence of an unlawful arrest, detainment, or search.
 -   4b. Knowingly suppress, misrepresent, or falsify information in a legal report or statement.
 -	4c. Discharge a weapon in a dangerous or negligent manner.
