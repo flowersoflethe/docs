@@ -34,7 +34,6 @@ that is pursuant to section 12.1c of the Station Security Act
 5. (1) No Security personnel are excused from responding to any inquiries that surface
        due to investigations into potential breach of this code, unless that member
 *	   (a). is the subject of the investigation
-*	   (b). is the partner of the aforementioned subject
 
 ## Coming into force
 6. This code comes into force once the employee has been officially assigned 
