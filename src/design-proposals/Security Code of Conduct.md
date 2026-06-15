@@ -16,19 +16,21 @@ that is pursuant to section 12.1c of the Station Security Act
    
 ## Prohibitions
 4. No members of Security shall
--   a. Knowingly, without probable cause, supervise or carry out an arrest, 
+-   4a. Knowingly, without probable cause, supervise or carry out an arrest, 
        a detention, or a search that is unlawful.
--	b. Knowingly, without probable cause, fail to report an arrest, detention,
+-	4b. Knowingly, without probable cause, fail to report an arrest, detention,
  a search or surveillance that is or can reasonably be considered unlawful.
--	c. Knowingly suppress, misrepresent, or falsify information in a report or statement.
--	d. Use a weapon in a dangerous or negligent manner.
--   e. Be critical or speak negatively of Nanotrasen appointed Command personnel
-       or other Security personnel while on duty.
--	f. Disclose Confidential information: such as information that is under NDA,
-	   or information pertaining to an ongoing investigation.
--	g. Engage in conduct that is likely to discredit the Security force or that 
-	   calls into question the member’s ability to carry out their duties
-	   in a faithful and impartial manner. 
+-	4c. Knowingly suppress, misrepresent, or falsify information in a report or statement.
+-	4d. Use a weapon in a dangerous or negligent manner.
+-   4e. Be critical or speak negatively of Nanotrasen appointed Command personnel
+        or other Security personnel while on duty.
+-	4f. Disclose Confidential information: such as information that is under NDA,
+	    or information pertaining to an ongoing investigation.
+-   4g. Drink until the point of intoxication while on duty.
+-   4h. use any tobacco or nicotine product while in contact with the public. 
+-	4j. Engage in conduct that is likely to discredit the Security force; or that 
+	    calls into question the member’s ability to carry out their duties
+	    in a faithful and impartial manner. 
 
 ## Duty to Cooperate
 5. (1) No Security personnel are excused from responding to any inquiries that surface
