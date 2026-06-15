@@ -20,15 +20,13 @@ that is pursuant to section 12.1c of the Station Security Act
        a detention, or a search that is unlawful.
 -	b. Knowingly, without probable cause, fail to report an arrest, detention,
  a search or surveillance that is, or can reasonably be considered unlawful.
--	c. Intimidate, or retaliate against any person who makes a report or 
-	   complaint about the conduct of a member of Security personnel.
--	d. knowingly suppress, misrepresent or falsify information in a report or statement.
--	e. Use a weapon in a dangerous or negligent manner.
--   f. Disclose the details of investigations unless authorised;
+-	c. knowingly suppress, misrepresent or falsify information in a report or statement.
+-	d. Use a weapon in a dangerous or negligent manner.
+-   e. Disclose the details of investigations unless authorised;
 	   or information that falls under Security’s NDA.
--	g. Be critical or talk negatively about Nanotrasen appointed Command
-	   staff or other Security personnel while on duty.
--	h. engage in conduct that is likely to discredit the Security force or that 
+-	f. Disclose Confidential information: such as information that is under NDA
+	   or information pertaining to an ongoing investigation.
+-	g. engage in conduct that is likely to discredit the Security force or that 
 	   calls into question the member’s ability to carry out their duties
 	   in a faithful and impartial manner. 
 
