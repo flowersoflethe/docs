@@ -16,19 +16,19 @@ that is pursuant to section 12.1c of the Station Security Act
    
 ## Prohibitions
 4. No members of Security shall
-*    A. Knowingly, without probable cause, supervise or carry out an arrest, 
+*   a. Knowingly, without probable cause, supervise or carry out an arrest, 
        a detention, or a search that is unlawful.
-*	B. Knowingly, without probable cause, fail to report an arrest, detention,
+*	b. Knowingly, without probable cause, fail to report an arrest, detention,
  a search or surveillance that is, or can reasonably be considered unlawful.
-*	C. Intimidate, or retaliate against any person who makes a report or 
+*	c. Intimidate, or retaliate against any person who makes a report or 
 	   complaint about the conduct of a member of Security personnel.
-*	D. knowingly suppress, misrepresent or falsify information in a report or statement.
-*	E. Use a weapon in a dangerous or negligent manner.
-*   F. Disclose the details of investigations unless authorised;
+*	d. knowingly suppress, misrepresent or falsify information in a report or statement.
+*	e. Use a weapon in a dangerous or negligent manner.
+*   f. Disclose the details of investigations unless authorised;
 	   or information that falls under Security’s NDA.
-*	G. Be critical or talk negatively about Nanotrasen appointed Command
+*	g. Be critical or talk negatively about Nanotrasen appointed Command
 	   staff or other Security personnel while on duty.
-*	H. engage in conduct that is likely to discredit the Security force or that 
+*	h. engage in conduct that is likely to discredit the Security force or that 
 	   calls into question the member’s ability to carry out their duties
 	   in a faithful and impartial manner. 
 
