@@ -22,8 +22,8 @@ that is pursuant to section 12.1c of the Station Security Act
  a search or surveillance that is, or can reasonably be considered unlawful.
 -	c. knowingly suppress, misrepresent or falsify information in a report or statement.
 -	d. Use a weapon in a dangerous or negligent manner.
--   e. Disclose the details of investigations unless authorised;
-	   or information that falls under Security’s NDA.
+-   e. be critical or speak negatively of Nanotrasen appointed Command personnel
+       or other Security personnel while on duty.
 -	f. Disclose Confidential information: such as information that is under NDA,
 	   or information pertaining to an ongoing investigation.
 -	g. engage in conduct that is likely to discredit the Security force or that 
