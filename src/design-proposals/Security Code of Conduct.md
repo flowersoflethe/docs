@@ -40,8 +40,8 @@ that is pursuant to section 12.1c of the Station Security Act
 *	   (b). is the partner of the aforementioned subject
 
 ## Coming into force
-6. This code comes into force once the employee has been registered 
-   as a member of Security personnel.
+6. This code comes into force once the employee has been assigned 
+   to Security duties.
 
 Failure to adhere to this code may result in disciplinary action. or in termination,
 depending on severity. All disciplinary actions or terminations may be made at the
