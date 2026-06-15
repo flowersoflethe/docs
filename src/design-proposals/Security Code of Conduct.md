@@ -24,7 +24,7 @@ that is pursuant to section 12.1c of the Station Security Act
 -	d. Use a weapon in a dangerous or negligent manner.
 -   e. Disclose the details of investigations unless authorised;
 	   or information that falls under Security’s NDA.
--	f. Disclose Confidential information: such as information that is under NDA
+-	f. Disclose Confidential information: such as information that is under NDA,
 	   or information pertaining to an ongoing investigation.
 -	g. engage in conduct that is likely to discredit the Security force or that 
 	   calls into question the member’s ability to carry out their duties
